@@ -77,6 +77,7 @@ Dynamic Multi-Model Financial Forecasting with CAPM Modelling
 ├── Stock_CAPM_Analysis.py         # Multi-stock CAPM analysis
 ├── Stock_Price_Prediction.py      # Machine learning-based price predictions
 ├── requirements.txt               # Project dependencies
+├── streamlit_dashboard_view.png   # dashboard image
 └── README.md                      # Project documentation
 ```
 
