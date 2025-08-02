@@ -1,4 +1,4 @@
-# 📈 Advanced Stock Market Analytics
+# 📈 Dynamic Multi-Model Financial Forecasting with CAPM Modelling
 
 ![Stock Market Analytics](https://img.shields.io/badge/Project-Stock%20Market%20Analytics-blueviolet) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive-red)
 
@@ -132,16 +132,6 @@ advanced-stock-market-analytics/
 - Expand stock selection to include international markets.
 - Deploy the app to a cloud platform (e.g., Streamlit Cloud).
 
-## 👨‍💻 Author
-
-- **Your Name**  
-  GitHub: [your-username](https://github.com/your-username)  
-  LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)  
-  Email: your.email@example.com
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Acknowledgments
 
