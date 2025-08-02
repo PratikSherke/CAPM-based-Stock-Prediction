@@ -35,11 +35,6 @@ This project is ideal for financial analysts, data scientists, and investors loo
   - Visualizes predictions alongside historical prices.
   - Provides company information (e.g., market cap, price change) and recent stock data.
 
-## 📊 Demo
-
-![Stock Price Prediction](https://via.placeholder.com/600x300.png?text=Stock+Price+Prediction+Demo)  
-*Interactive dashboard showing stock price predictions and CAPM analysis for selected stocks.*
-
 ## 📋 Prerequisites
 
 - Python 3.8+
@@ -77,12 +72,11 @@ This project is ideal for financial analysts, data scientists, and investors loo
 ## 📂 Repository Structure
 
 ```
-advanced-stock-market-analytics/
+Dynamic Multi-Model Financial Forecasting with CAPM Modelling
 ├── Single_Stock_CAPM_Analysis.py  # Single stock CAPM analysis
 ├── Stock_CAPM_Analysis.py         # Multi-stock CAPM analysis
 ├── Stock_Price_Prediction.py      # Machine learning-based price predictions
 ├── requirements.txt               # Project dependencies
-├── .gitignore                     # Git ignore file
 └── README.md                      # Project documentation
 ```
 
