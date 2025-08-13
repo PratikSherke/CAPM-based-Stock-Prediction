@@ -1,4 +1,4 @@
-# 📈 Dynamic Multi-Model Financial Forecasting with CAPM Modelling
+# 📈 Multi-Model Financial Forecasting with CAPM Modelling
 
 ![Stock Market Analytics](https://img.shields.io/badge/Project-Stock%20Market%20Analytics-blueviolet) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive-red)
 
